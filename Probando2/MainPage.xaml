@@ -19,6 +19,6 @@
                 >
 
         </Button>
-
+        <Label Text="Esto es una prueba"></Label>
     </StackLayout>
 </ContentPage>
